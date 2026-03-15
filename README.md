@@ -55,14 +55,6 @@ I also enjoy creating **pixel art** for hobby side projects.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xenerooo\&show_icons=true)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Xenerooo)
-
 ## 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenerooo\&layout=compact)
