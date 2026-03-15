@@ -61,18 +61,18 @@ I also do love doing pixel art specifically on my hobby side projects
 * Krita
 * Aseprite
 
-
 ---
 
-##  Currently Learning
+## 📊 GitHub Stats
 
-* Software architecture and clean code practices
-* Game system design and architecture
-* Backend development with Laravel
-* Building more complete and maintainable projects
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xenerooo&show_icons=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Xenerooo)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenerooo&layout=compact)
 
 ---
-
----
-
-*I enjoy exploring how systems work — especially games — and building my own implementations to understand them better.*
