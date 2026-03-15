@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xenero
+#  Hi, I'm Xenero
 
 🎓 Computer Science Student
 🎮 Aspiring Game Developer
