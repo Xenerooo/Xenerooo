@@ -19,14 +19,6 @@ I enjoy exploring how games are structured and experimenting with gameplay syste
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
 
-**Areas I like exploring**
-
-* Gameplay systems
-* Game architecture
-* Game mechanics and design
-* Multiplayer concepts
-* World / chunk systems
-
 ---
 
 ## 🌐 Web Development
