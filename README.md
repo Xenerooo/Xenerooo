@@ -1,4 +1,4 @@
-#  Hi, I'm Xenero
+# 👋 Hi, I'm Xenero
 
 🎓 Computer Science Student
 🎮 Aspiring Game Developer
@@ -16,10 +16,10 @@ I enjoy exploring how games are structured and experimenting with gameplay syste
 
 **Game Engines I've Used**
 
-* Godot
-* Unity
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
 
-Areas I like exploring:
+**Areas I like exploring**
 
 * Gameplay systems
 * Game architecture
@@ -31,41 +31,41 @@ Areas I like exploring:
 
 ## 🌐 Web Development
 
-I also work on web-based systems and applications, focusing on backend development and full-stack projects.
-
 **Tech Stack**
 
-* PHP
-* Laravel
-* Python
-* HTML / CSS / JavaScript
-* Bootstrap
-* Tailwind CSS
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ---
 
 ## 🛠️ Tools
 
-* Git
-* GitHub
-* VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-##  Does Art occasionally
+## 🎨 Does Art Occasionally
 
-I also do love doing pixel art specifically on my hobby side projects
+I also enjoy creating **pixel art** for hobby side projects.
 
-## ✏️ Tools
+**Art Tools**
 
-* Krita
-* Aseprite
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge\&logo=krita\&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge\&logo=aseprite\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xenerooo&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xenerooo\&show_icons=true)
 
 ## 🔥 GitHub Streak
 
@@ -73,6 +73,6 @@ I also do love doing pixel art specifically on my hobby side projects
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenerooo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenerooo\&layout=compact)
 
 ---
