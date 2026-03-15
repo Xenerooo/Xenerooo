@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Xenero
 
-<!--
-**Xenerooo/Xenerooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🎮 Aspiring Game Developer
+💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I’m passionate about software development and take software engineering seriously as a long-term career. I enjoy learning how complex systems are designed and built, and I constantly work on improving my programming skills by creating projects and experimenting with different technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+One of my biggest interests is **understanding how games work internally**. I like exploring the systems behind them—breaking down mechanics, studying architecture, and building my own implementations to see how they function in practice.
+
+---
+
+## 🎮 Game Development
+
+I enjoy exploring how games are structured and experimenting with gameplay systems and mechanics. A lot of my learning comes from analyzing how existing games work and trying to recreate or prototype similar systems.
+
+**Game Engines I've Used**
+
+* Godot
+* Unity
+
+Areas I like exploring:
+
+* Gameplay systems
+* Game architecture
+* Game mechanics and design
+* Multiplayer concepts
+* World / chunk systems
+
+---
+
+## 🌐 Web Development
+
+I also work on web-based systems and applications, focusing on backend development and full-stack projects.
+
+**Tech Stack**
+
+* PHP
+* Laravel
+* Python
+* HTML / CSS / JavaScript
+* Bootstrap
+* Tailwind CSS
+
+---
+
+## 🛠️ Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+##  Does Art occasionally
+
+I also do love doing pixel art specifically on my hobby side projects
+
+## ✏️ Tools
+
+* Krita
+* Aseprite
+
+
+---
+
+##  Currently Learning
+
+* Software architecture and clean code practices
+* Game system design and architecture
+* Backend development with Laravel
+* Building more complete and maintainable projects
+
+---
+
+---
+
+*I enjoy exploring how systems work — especially games — and building my own implementations to understand them better.*
