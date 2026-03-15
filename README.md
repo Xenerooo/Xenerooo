@@ -41,15 +41,6 @@ I enjoy exploring how games are structured and experimenting with gameplay syste
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## 🎨 Does Art Occasionally
-
-I also enjoy creating **pixel art** for hobby side projects.
-
-**Art Tools**
-
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge\&logo=krita\&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge\&logo=aseprite\&logoColor=white)
 
