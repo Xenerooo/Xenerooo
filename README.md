@@ -20,6 +20,7 @@ I enjoy exploring how games are structured and experimenting with gameplay syste
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
 
 **Tools Used**
+
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge\&logo=krita\&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge\&logo=aseprite\&logoColor=white)
 
