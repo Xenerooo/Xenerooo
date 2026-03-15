@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Xenero
 
 🎓 Computer Science Student
-🎮 Aspiring Game Developer
+
+🎮 Game Dev Hobbyist
+
 💻 Aspiring Software Engineer
 
 I’m passionate about software development and take software engineering seriously as a long-term career. I enjoy learning how complex systems are designed and built, and I constantly work on improving my programming skills by creating projects and experimenting with different technologies.
